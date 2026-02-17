@@ -1,8 +1,7 @@
 # 📺 IPTV Manager
 
+Projeto:
 Sistema de gestão de clientes IPTV simples e intuitivo, desenvolvido com HTML, CSS e JavaScript.
-
-## ✨ Funcionalidades
 
 ### Dashboard Interativo
 - **Total de Clientes**: Visualize o número total
